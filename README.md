@@ -210,7 +210,7 @@ Potential enhancements to the application include:
 
 **Rammal Ahmed**
 
-Microsoft Dynamics 365 CRM Developer | AI & Data Science Enthusiast
+AI & Data Science Enthusiast | Microsoft Dynamics 365 CRM Developer | UI/UX Designer | Graphic Designer & Illustrator | Power Platform
 
 [LinkedIn] www.linkedin.com/in/rammal-ahmed-58184b325
 [GitHub] https://github.com/Rammal-Ahmed
