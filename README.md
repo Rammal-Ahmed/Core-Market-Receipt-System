@@ -208,7 +208,7 @@ Potential enhancements to the application include:
 
 ## Author
 
-**Rammal AHmed**
+**Rammal Ahmed**
 
 Microsoft Dynamics 365 CRM Developer | AI & Data Science Enthusiast
 
